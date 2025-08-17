@@ -1,0 +1,11 @@
+com\rentvideo\entities\Role.class
+com\rentvideo\repositories\VideoRepository.class
+com\rentvideo\dtos\RegisterRequest.class
+com\rentvideo\entities\User.class
+com\rentvideo\entities\Video.class
+com\rentvideo\RentvideoApplication.class
+com\rentvideo\repositories\UserRepository.class
+com\rentvideo\controllers\AuthController.class
+com\rentvideo\dtos\VideoDto.class
+com\rentvideo\security\SecurityConfig.class
+com\rentvideo\controllers\VideoController.class

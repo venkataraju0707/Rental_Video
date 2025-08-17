@@ -1,0 +1,11 @@
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\controllers\AuthController.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\controllers\VideoController.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\dtos\RegisterRequest.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\dtos\VideoDto.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\entities\Role.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\entities\User.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\entities\Video.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\RentvideoApplication.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\repositories\UserRepository.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\repositories\VideoRepository.java
+D:\textbooks\demo\demo\src\main\java\com\rental_video_system\demo\security\SecurityConfig.java
