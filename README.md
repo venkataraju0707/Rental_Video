@@ -41,11 +41,10 @@ This project is a backend API for a video rental platform, designed with a focus
 
 - **Framework**: Spring Boot (3.x)  
 - **Security**: Spring Security  
-- **Database**: PostgreSQL (default) or H2 (for dev/testing)  
+- **Database**: PostgreSQL  
 - **ORM**: Spring Data JPA + Hibernate  
 - **Build Tool**: Maven  
-- **Utility**: Lombok (to reduce boilerplate)  
-
+ 
 ---
 
 ## 📦 How to Run
